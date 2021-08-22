@@ -20,7 +20,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] When deleting an item it will show you an indicator of the item that was deleted
+* [x] When adding an item it will show you an indicator of the item that was was added
 
 ## Video Walkthrough
 
